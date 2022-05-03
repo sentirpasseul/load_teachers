@@ -11,4 +11,3 @@ zan_clock2 = [110, 90, 50, 89, 48, 55]
 
 data = pd.DataFrame({"fio": teachers, "dolg":dolg, "stavka":stavka, "zan_clock1": zan_clock1, "zan_clock2": zan_clock2})
 
-print(data)

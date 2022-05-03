@@ -103,7 +103,8 @@ else:
 print('Свободных часов у преподавателя в 1 семестре =', svob_clock1)
 print('Свободных часов у преподавателя во 2 семестре =', svob_clock2)
 
-#from get_data import data
+from get_data import data
+print(data)
 #for i in data.iloc:
     #print(i)
 
